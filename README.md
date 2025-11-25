@@ -56,4 +56,4 @@ To run this project locally, follow these steps:
 
 ## 🔗 Live Demo
 
-[If you deploy your project on Netlify/Vercel, insert the live link here]
+[https://virunpatch.github.io/Vue.js-ToDoList/]
